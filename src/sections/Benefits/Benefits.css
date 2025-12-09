@@ -1,0 +1,25 @@
+#benefits .textBlock div {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+}
+
+#benefits .textBlock img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    flex-shrink: 0;
+}
+
+#benefits .textBlock p {
+    flex: 1;
+}
+
+@media (max-width: 650px) {
+
+    #benefits .textBlock div {
+        flex-direction: column-reverse;
+        gap: 0rem;
+    }
+
+}

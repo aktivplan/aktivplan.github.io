@@ -1,0 +1,5 @@
+# Background
+
+Through a user-centered design process involving patients, healthy individuals, healthcare professionals, and researchers, the development of **aktiv**plan was initiated in 2020 as part of the CODIS project (“Co-Production of Home-Based Digital Support for Cardiac Patients”). Since then, it has been continuously refined and applied across diverse clinical and preventive real-world settings.
+
+Development was led by the [Ludwig Boltzmann Institute for Digital Health and Prevention](https://dhp.lbg.ac.at/?lang=en), supported by the [Institute for Preventive and Rehabilitative Sports Medicine](https://salk.at/sportmedizin/) at the University Hospital of Salzburg, and the [Open Innovation in Science Centre](https://lbg.ac.at/open-innovation-in-science/?lang=en) of the Ludwig Boltzmann Society. Industry partners [Alphaport OG](https://www.alphaport.at/en) and [Chino.io](https://www.chino.io/) contributed to the technical implementation and GDPR-compliant data management, ensuring security and regulatory compliance.

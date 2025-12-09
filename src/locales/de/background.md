@@ -1,0 +1,5 @@
+# Hintergrund
+
+Im Rahmen eines nutzerzentrierten Designprozesses, unter Einbeziehung von Patient:innen, gesunden Personen, Gesundheitsfachkräften und Forschenden, wurde die Entwicklung von **aktiv**plan im Jahr 2020 als Teil des CODIS-Projekts („Co-Production of Home-Based Digital Support for Cardiac Patients“) initiiert. Seitdem wird die Anwendung kontinuierlich weiterentwickelt und in unterschiedlichen klinischen und präventiven Echtwelt-Szenarien eingesetzt.
+
+Die Entwicklung wurde vom [Ludwig Boltzmann Institut für Digitale Gesundheit und Prävention](https://dhp.lbg.ac.at) geleitet und vom [Institut für Präventive und Rehabilitative Sportmedizin](https://salk.at/sportmedizin/) des Universitätsklinikums Salzburg sowie dem [Open Innovation in Science Centre](https://lbg.ac.at/open-innovation-in-science) der Ludwig Boltzmann Gesellschaft unterstützt. Die Industriepartner [Alphaport OG](https://www.alphaport.at/de) und [Chino.io](https://www.chino.io/) trugen zur technischen Umsetzung und zur DSGVO-konformen Datenverwaltung bei und gewährleisteten so Sicherheit und regulatorische Compliance.

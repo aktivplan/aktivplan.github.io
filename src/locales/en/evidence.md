@@ -1,0 +1,3 @@
+# Application and Research Evidence
+
+**aktiv**plan has been applied in numerous studies, master’s and PhD theses, as well as various projects. Designed to be adaptable across different contexts and use cases, research insights continuously inform its design and functionality, providing a strong scientific foundation. Today, **aktiv**plan is a scalable, evidence-based tool that enhances health outcomes and drives digital innovation in both clinical and preventive settings.
