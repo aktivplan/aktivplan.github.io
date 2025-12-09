@@ -1,0 +1,3 @@
+# Anwendung und wissenschaftliche Evidenz
+
+**aktiv**plan wurde bereits in zahlreichen Studien, Master- und Doktorarbeiten sowie verschiedenen Projekten eingesetzt. Die Anwendung ist so konzipiert, dass sie für unterschiedliche Kontexte und Anwendungsfälle anpassbar ist. Die gewonnenen Forschungsergebnisse fließen kontinuierlich in das Design und die Funktionalität der Anwendung ein und schaffen so eine solide wissenschaftliche Grundlage. Heute ist **aktiv**plan ein skalierbares, evidenzbasiertes Werkzeug, das die Gesundheit fördert und digitale Innovationen sowohl im klinischen als auch im präventiven Bereich vorantreibt.

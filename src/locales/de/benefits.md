@@ -1,0 +1,6 @@
+**aktiv**plan stärkt das österreichische Gesundheitswesen und die digitale Innovationslandschaft, indem es herzgesunde Aktivitäten in präventiven und rehabilitativen Settings fördert. Entwickelt in Zusammenarbeit mit österreichischen KMUs, Krankenhäusern und Forschungseinrichtungen, trägt es zur Schaffung von Arbeitsplätzen, Kompetenzaufbau und zum Wachstum des digitalen Gesundheitsökosystems bei. Zu den wichtigsten Vorteilen gehören:
+
+- **Ausrichtung an der nationalen Strategie:** Unterstützt [Österreichs eHealth-Strategie](https://www.sozialministerium.gv.at/dam/jcr:d83aba44-320a-4f60-877a-4a8ecc9aaf4c/240204-eHealth-EN_bf.pdf&ved=2ahUKEwiV-d_93uyQAxV4gP0HHTaRAngQFnoECBoQAQ&usg=AOvVaw3f1g_OZdYwcN0CkhgLcMz8) und aufkommende Erstattungsmodelle.  
+- **Wirtschaftliches Potenzial:** Ermöglicht nachhaltige Geschäftsmodelle und internationale Exportchancen.  
+- **Gesundheitlicher Nutzen:** Verbessert das Krankheitsmanagement, reduziert Bewegungsmangel und steigert die Lebensqualität.  
+- **Systemischer Mehrwert:** Hilft, Gesundheitskosten zu senken, den Zugang zur Versorgung zu erweitern und Österreichs Rolle in der digitalen Gesundheitsinnovation zu stärken.

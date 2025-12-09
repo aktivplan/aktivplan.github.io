@@ -1,0 +1,25 @@
+#nextSteps .textBlock div {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem; 
+}
+
+#nextSteps .textBlock img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  flex-shrink: 0; 
+}
+
+#nextSteps .textBlock p {
+  flex: 1; 
+}
+
+@media (max-width: 650px) {
+
+    #nextSteps .textBlock div {
+        flex-direction: column;
+        gap: 0rem;
+    }
+
+}
