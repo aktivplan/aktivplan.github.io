@@ -9,20 +9,20 @@
 .logo-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
     gap: 16px;
 }
 
 .logo-wrapper {
-    width: 187px;
-    height: 187px;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-    padding: 8px;
     transition: transform 0.2s ease-in-out;
 }
 
@@ -49,49 +49,37 @@
     height: 100%;
 }
 
+.primary-logo {
+    width: 414px;
+    height: auto;
+    padding: 25px;
+    margin-bottom: 15px;
+}
+
+.logo-header {
+font-weight: bold;
+font-size: 0.9rem;
+}
 
 @media (max-width: 1040px) {
-    .wrapper {
-        padding: 40px 20px;
-    }
-
-    .logo-wrapper {
-        width: 150px;
-        height: 150px;
-        padding: 12px;
+    .primary-logo {
+        width: 300px;
+        height: auto;
+        padding: 25px;
+        margin-bottom: 15px;
     }
 }
 
-@media (max-width: 845px) {
+@media (max-width: 450px) {
 
-    #background h1 {
-        width: 100%;
-    }
-
-    #background .textBlock {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-    }
-
-    .logo-container {
-        max-width: 600px;
-    }
-}
-
-@media (max-width: 650px) {
-    .wrapper {
-        padding: 30px 15px;
-    }
-
-    .logo-container {
-        max-width: 500px;
-    }
 
     .logo-wrapper {
-        width: 125px;
-        height: 125px;
+        width: calc(50% - 8px);
         padding: 10px;
-    } 
+    }
+
+    .primary-logo {
+        width: 100%;
+        padding: 20px;
+    }
 }
