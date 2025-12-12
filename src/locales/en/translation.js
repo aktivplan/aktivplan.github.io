@@ -19,7 +19,7 @@ const en = {
     contact: "Contact"
   },
   about: {
-    slogan: "aktivplan: towards bridging professional guidance and everyday life.",
+    slogan: "aktivplan: bridging professional guidance and everyday life.",
     keywords: "Plan. Move. Improve.",
     desc: aboutMD,
     desc2: about2MD,

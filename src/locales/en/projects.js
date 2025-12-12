@@ -1,7 +1,7 @@
 const projects = [
   {
     date: "01/20 – 05/21",
-    name: "Outpatient Cardiac Rehabilitation Closure and Home-Based Exercise Training",
+    name: "Outpatient Cardiac Rehabilitation Closure and Home-Based Exercise Training in COVID-19",
     tags: ["Mixed-Methods Study"],
     description:
       "The COVID-19 lockdown disrupted group-based cardiac rehabilitation for 27 participants, reducing exercise capacity, motivation, and confidence during home training. Most stayed active, but many struggled to maintain previous levels and missed the structure, supervision, and social support of group sessions. The findings highlight the importance of guided exercise and the potential of a digital tool to support structured, personalized remote training.",
@@ -41,7 +41,7 @@ const projects = [
   {
     date: "01/21 – 09/21",
     name: "Technology as bridge between health professionals and patients",
-    url: "https://dhp.lbg.ac.at/masters-theses-and-doctoral-dissertations/?lang=en#julia-neunteufel",
+    url: "https://eplus.uni-salzburg.at/obvusbhs/download/pdf/7315343?originalFilename=true",
     tags: ["Master Thesis", "Field Study"],
     description:
       "The master thesis examined how **aktiv**plan supports shared decision-making in cardiac rehabilitation. **aktiv**plan offered structure and transparency for planning and tracking activity, motivating patients and connecting clinic guidance with everyday exercise. However, the study showed that adding more built-in guidance could further strengthen collaborative goal-setting and personalized activity planning.",
@@ -85,10 +85,7 @@ const projects = [
     tags: ["PhD Project"],
     description:
       "In the PhD project Smart PA, **aktiv**plan was used to examine the effects of specific reminders and implementation intentions. This approach provided valuable insights into strategies for supporting users and improving adherence to prescribed exercise plans over time.",
-    publications: [{
-      title: "The Last JITAI? Exploring Large Language Models for Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting",
-      url: "https://doi.org/10.1145/3706598.3713307"
-    }]
+    publications: []
   },
   {
     date: "09/22 – 09/23",
@@ -104,7 +101,7 @@ const projects = [
   {
     date: "04/23 – 02/24",
     name: "Social activities online – integrating social elements in a digital health app to support a heart-healthy lifestyle",
-    url: "https://dhp.lbg.ac.at/masters-theses-and-doctoral-dissertations/?lang=en",
+    url: "https://dhp.lbg.ac.at/wp-content/uploads/sites/8/2024/09/Social-activities-online-integrating-social-elements-in-a-digital-health-app-to-support-a-heart-healthy-lifestyle.pdf",
     tags: ["Master Thesis", "Exploratory Study"],
     description:
       "This master’s thesis used **aktiv**plan as a case study to explore and design social features in digital health applications for individuals with cardiovascular disease. Through interviews, workshops, and prototype evaluation, the study identified needs for family involvement, peer support, and community connection.",
