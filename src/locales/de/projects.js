@@ -1,7 +1,7 @@
 const projects = [
   {
     date: "01/20 – 05/21",
-    name: "Ambulante Herzrehabilitationsschließung und Heimtraining",
+    name: "Schließung ambulanter Herzrehabilitation und Heimtraining während COVID-19",
     tags: ["Mixed-Methods-Studie"],
     description:
       "Der COVID-19-Lockdown unterbrach die gruppenbasierte Herzrehabilitation für 27 Teilnehmer:innen, was die Trainingskapazität, Motivation und das Vertrauen beim Heimtraining reduzierte. Die meisten blieben aktiv, viele hatten jedoch Schwierigkeiten, das vorherige Niveau zu halten, und vermissten die Struktur, Betreuung und soziale Unterstützung der Gruppensitzungen. Die Ergebnisse unterstreichen die Bedeutung angeleiteter Übungen und das Potenzial eines digitalen Tools, strukturiertes, personalisiertes Training aus der Ferne zu unterstützen.",
@@ -40,7 +40,7 @@ const projects = [
   {
     date: "01/21 – 09/21",
     name: "Technologie als Brücke zwischen Fachkräften und Patient:innen",
-    url: "https://dhp.lbg.ac.at/masters-theses-and-doctoral-dissertations/?lang=en#julia-neunteufel",
+    url: "https://eplus.uni-salzburg.at/obvusbhs/download/pdf/7315343?originalFilename=true",
     tags: ["Masterarbeit", "Feldstudie"],
     description:
       "Die Masterarbeit untersuchte, wie **aktiv**plan die gemeinsame Entscheidungsfindung in der Herzrehabilitation unterstützt. **aktiv**plan bot Struktur und Transparenz bei der Planung und Dokumentation von Aktivitäten, motivierte die Patient:innen und verband professionelle Anleitung mit dem täglichen Training. Die Studie zeigte jedoch, dass mehr integrierte Anleitung die kollaborative Zielsetzung und personalisierte Trainingsplanung weiter stärken könnte.",
@@ -84,10 +84,7 @@ const projects = [
     tags: ["Doktoratsprojekt"],
     description:
       "Im Doktoratsprojekt Smart PA wurde **aktiv**plan genutzt, um die Effekte spezifischer Erinnerungen und Implementierungsintentionen zu untersuchen. Dieser Ansatz lieferte wertvolle Einblicke in Strategien zur Unterstützung der Nutzer:innen und zur Verbesserung der Einhaltung verschriebener Trainingspläne über die Zeit.",
-    publications: [{
-      title: "The Last JITAI? Exploring Large Language Models for Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting",
-      url: "https://doi.org/10.1145/3706598.3713307"
-    }]
+    publications: []
   },
   {
     date: "09/22 – 09/23",
@@ -103,7 +100,7 @@ const projects = [
   {
     date: "04/23 – 02/24",
     name: "Soziale Aktivitäten online – Integration sozialer Elemente in einer digitalen Gesundheits-App zur Unterstützung eines herzgesunden Lebensstils",
-    url: "https://dhp.lbg.ac.at/masters-theses-and-doctoral-dissertations/?lang=en",
+    url: "https://dhp.lbg.ac.at/wp-content/uploads/sites/8/2024/09/Social-activities-online-integrating-social-elements-in-a-digital-health-app-to-support-a-heart-healthy-lifestyle.pdf",
     tags: ["Masterarbeit", "Explorative Studie"],
     description:
       "Diese Masterarbeit nutzte **aktiv**plan als Fallstudie, um soziale Funktionen in digitalen Gesundheitsanwendungen für Menschen mit Herz-Kreislauf-Erkrankungen zu explorieren und zu gestalten. Durch Interviews, Workshops und Prototypen-Evaluierung wurden Bedürfnisse nach Familienbeteiligung, Unterstützung durch Gleichgesinnte und Vernetzung in der Gemeinschaft identifiziert.",
