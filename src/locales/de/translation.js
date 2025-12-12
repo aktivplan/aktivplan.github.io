@@ -42,7 +42,7 @@ const de = {
       }
     ]
   },
-  background: backgroundMD,
+  background: { desc: backgroundMD, lead: 'Projektleitung', support: 'Unterstützt durch' },
   evidence: { desc: evidenceMD, projects: projectsJS, publications: "Publikation(en):" },
   benefits: { h1: "Mehrwert und wirtschaftlicher Nutzen", desc: benefitsMD },
   nextSteps: { h1: "Nächste Schritte", desc: nextStepsMD },
@@ -53,6 +53,7 @@ const de = {
     address: "Lindhofstr. 22, 5020 Salzburg, Österreich",
     phone: "Telefon",
     email: "E-Mail",
+    github: "Finden Sie die quelloffen verfügbare Implementierung auf",
   },
   impressum: impressumMD,
   privacyPolicy: privacyPolicyMD,

@@ -3,9 +3,8 @@ import { useTranslation } from 'react-i18next';
 import './Contact.css';
 import ReactMarkdown from 'react-markdown';
 
-
 const Contact = () => {
-    const { t, i18n } = useTranslation();
+    const { t } = useTranslation();
 
     return (
         <div className='textBlock'>
@@ -17,6 +16,19 @@ const Contact = () => {
                 <br />
                 {t('contact.email')}: <a href="mailto:aktivplan@lbidhp.at">aktivplan@lbidhp.at</a>
             </p>
+                <p>{t('contact.github')}
+                    <a
+                        href="https://github.com/aktivplan"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <img
+                            src="/GitHub_Logo_White.png"
+                            alt="GitHub Logo"
+                            className="githubLogo"
+                        />
+                    </a>
+                </p>
         </div>
     );
 };

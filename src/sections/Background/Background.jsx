@@ -9,13 +9,17 @@ const Background = () => {
     return (
         <section id="background" className="wrapper">
             <div className='textBlock'>
-                <ReactMarkdown>{t('background')}</ReactMarkdown>
-           <div className="logo-container">
-                    <div className="logo-wrapper">
+                <ReactMarkdown>{t('background.desc')}</ReactMarkdown>
+                <p className='logo-header'>{t('background.lead')}</p>
+                <div className="logo-container">
+                    <div className="logo-wrapper primary-logo">
                         <a href="https://dhp.lbg.ac.at/?lang=en" target="_blank">
                             <img src="/logos/LBI-DHP.svg" />
                         </a>
                     </div>
+                </div>
+                <p className='logo-header'>{t('background.support')}</p>
+                <div className="logo-container">
                     <div className="logo-wrapper">
                         <a href="https://salk.at/sportmedizin/" target="_blank">
                             <img src="/logos/SALK.png" />
