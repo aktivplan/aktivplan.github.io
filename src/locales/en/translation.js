@@ -53,6 +53,7 @@ const en = {
     address: "Lindhofstr. 22, 5020 Salzburg, Austria",
     phone: "Phone",
     email: "Email",
+    github: "Find the source-available implementation on",
   },
   impressum: impressumMD,
   privacyPolicy: privacyPolicyMD,
