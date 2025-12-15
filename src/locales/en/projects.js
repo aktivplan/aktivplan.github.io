@@ -113,7 +113,7 @@ const projects = [
     url: "https://dhp.lbg.ac.at/projects-and-studies/?lang=en",
     tags: ["Clinical Pilot Study"],
     description:
-      "The pilot study was conducted to prepare for a larger clinical trial aimed at medical device certification. Initial analyses reveal that, ten weeks after discharge from cardiac rehabilitation, 11 patients using **aktiv**plan achieved an average of 77 more heart-healthy exercise minutes per week than 16 patients not using **aktiv**plan.",
+      "The pilot study was conducted to prepare for a larger clinical trial aimed at medical device certification. Initial analyses reveal that, ten weeks after discharge from cardiac rehabilitation, the 11 patients using **aktiv**plan achieved on average 18% more heart-healthy physical activity over a one-week measurement period than 16 patients who did not use **aktiv**plan.",
     publications: [
       {
         title: "Feasibility of the aktivplan digital health intervention for regular physical activity following phase II rehabilitation: Protocol for a mixed-method randomized controlled pilot study (ACTIVE-CaRe Pilot)",
