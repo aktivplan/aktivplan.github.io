@@ -112,7 +112,7 @@ const projects = [
     url: "https://dhp.lbg.ac.at/projects-and-studies/?lang=en",
     tags: ["Klinische Pilotstudie"],
     description:
-      "Die Pilotstudie wurde durchgeführt, um eine größere klinische Studie zur Medizinprodukt-Zertifizierung vorzubereiten. Erste Analysen zeigen, dass zehn Wochen nach der Entlassung aus der Herzrehabilitation 11 Patient:innen, die **aktiv**plan nutzten, im Durchschnitt 77 Minuten mehr herzgesunde Bewegung pro Woche erreichten als 16 Patient:innen, die **aktiv**plan nicht nutzten.",
+      "Die Pilotstudie wurde durchgeführt, um eine größere klinische Studie zur Medizinprodukt-Zertifizierung vorzubereiten. Erste Analysen zeigen, dass die 11 **aktiv**plan-Nutzer:innen zehn Wochen nach der Entlassung aus der Herzrehabilitation innerhalb eines einwöchigen Messzeitraums im Durchschnitt 18 % mehr herzgesunde Bewegung erreichten als 16 Patient:innen, die **aktiv**plan nicht nutzten.",
     publications: [
       {
         title: "Feasibility of the aktivplan digital health intervention for regular physical activity following phase II rehabilitation: Protocol for a mixed-method randomized controlled pilot study (ACTIVE-CaRe Pilot)",
