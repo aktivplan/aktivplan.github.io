@@ -18,6 +18,7 @@ const Background = () => {
                         </a>
                     </div>
                 </div>
+                <br/>
                 <p className='logo-header'>{t('background.support')}</p>
                 <div className="logo-container">
                     <div className="logo-wrapper">
@@ -26,18 +27,42 @@ const Background = () => {
                         </a>
                     </div>
                     <div className="logo-wrapper">
-                        <a href="https://lbg.ac.at/open-innovation-in-science/?lang=en" target="_blank">
+                        <a href="https://lbg.ac.at/open-innovation-in-science/" target="_blank">
                             <img src="/logos/LBG-OIS.png" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
-                        <a href="https://www.alphaport.at/en" target="_blank">
+                        <a href="https://www.alphaport.at/" target="_blank">
                             <img src="/logos/alphaport.png" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.chino.io/" target="_blank">
                             <img src="/logos/Chino-IO.svg" />
+                        </a>
+                    </div>
+                </div>
+                <br/>
+                <p className='logo-header'>{t('background.funded')}</p>
+                <div className="logo-container">
+                    <div className="logo-wrapper">
+                        <a href="https://ois.lbg.ac.at/projekte/co-produktion-von-haeuslicher-digitaler-unterstuetzung-fuer-herzpatientinnen/" target="_blank">
+                            <img src="/logos/CODIS.png" />
+                        </a>
+                    </div>
+                    <div className="logo-wrapper">
+                        <a href="https://dhp.lbg.ac.at/digigreen-digital-green-prevention-and-rehabilitation/" target="_blank">
+                            <img src="/logos/DIGIGREEN.png" />
+                        </a>
+                    </div>
+                    <div className="logo-wrapper">
+                        <a href="https://www.trafficon.eu/projekte/klimafit-forschungsprojekt-zu-hitzeresilienz/" target="_blank">
+                            <img src="/logos/KlimaFIT.png" />
+                        </a>
+                    </div>
+                    <div className="logo-wrapper">
+                        <a href="https://prehab2rehab.at/" target="_blank">
+                            <img src="/logos/Prehab2Rehab.svg" />
                         </a>
                     </div>
                 </div>

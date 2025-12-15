@@ -42,7 +42,7 @@ const en = {
       }
     ]
   },
-  background: { desc: backgroundMD, lead: 'Project Lead', support: 'Supported by' },
+  background: { desc: backgroundMD, lead: 'Project Lead', support: 'Supported by', funded: "Funded as part of"},
   evidence: { desc: evidenceMD, projects: projectsJS, publications: "Publication(s):" },
   benefits: { h1: "Benefits and Economic Value", desc: benefitsMD },
   nextSteps: { h1: "Next Steps", desc: nextStepsMD },

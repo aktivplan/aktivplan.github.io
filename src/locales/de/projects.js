@@ -71,7 +71,7 @@ const projects = [
   {
     date: "01/22 – 06/25",
     name: "Digitale & grüne Prävention und Rehabilitation",
-    url: "https://dhp.lbg.ac.at/digigreen/?lang=en",
+    url: "https://dhp.lbg.ac.at/digigreen/",
     tags: ["Feldstudie"],
     description:
       "Das Digi:Green-Projekt untersuchte, wie die Kombination digitaler Tools und naturbasierter Therapien Prävention und Rehabilitation in den alpinen Regionen Salzburgs verbessern kann. **aktiv**plan wurde genutzt, um die Aktivitäten der Teilnehmer:innen während des Aufenthalts und nach der Rückkehr nach Hause zu planen und so gesundheitsfördernde Verhaltensweisen im Alltag aufrechtzuerhalten.",
@@ -80,7 +80,7 @@ const projects = [
   {
     date: "02/22 – 06/25",
     name: "Smart PA",
-    url: "https://dhp.lbg.ac.at/smart-pa/?lang=en",
+    url: "https://dhp.lbg.ac.at/smart-pa/",
     tags: ["Doktoratsprojekt"],
     description:
       "Im Doktoratsprojekt Smart PA wurde **aktiv**plan genutzt, um die Effekte spezifischer Erinnerungen und Implementierungsintentionen zu untersuchen. Dieser Ansatz lieferte wertvolle Einblicke in Strategien zur Unterstützung der Nutzer:innen und zur Verbesserung der Einhaltung verschriebener Trainingspläne über die Zeit.",
@@ -109,10 +109,10 @@ const projects = [
   {
     date: "09/23 – 08/24",
     name: "ACTIVE-CaRe Pilot",
-    url: "https://dhp.lbg.ac.at/projects-and-studies/?lang=en",
+    url: "https://dhp.lbg.ac.at/projects-and-studies/",
     tags: ["Klinische Pilotstudie"],
     description:
-      "Die Pilotstudie wurde durchgeführt, um eine größere klinische Studie zur Medizinprodukt-Zertifizierung vorzubereiten. Erste Analysen zeigen, dass die 11 **aktiv**plan-Nutzer:innen zehn Wochen nach der Entlassung aus der Herzrehabilitation innerhalb eines einwöchigen Messzeitraums im Durchschnitt 18 % mehr herzgesunde Bewegung erreichten als 16 Patient:innen, die **aktiv**plan nicht nutzten.",
+      "Die Pilotstudie wurde durchgeführt, um eine größere klinische Studie zur Medizinprodukt-Zertifizierung vorzubereiten. Erste Analysen zeigen, dass die 11 **aktiv**plan-Nutzer:innen zehn Wochen nach der Entlassung aus der Herzrehabilitation innerhalb eines einwöchigen Messzeitraums im Durchschnitt 18% mehr herzgesunde Bewegung erreichten als 16 Patient:innen, die **aktiv**plan nicht nutzten.",
     publications: [
       {
         title: "Feasibility of the aktivplan digital health intervention for regular physical activity following phase II rehabilitation: Protocol for a mixed-method randomized controlled pilot study (ACTIVE-CaRe Pilot)",
@@ -144,7 +144,7 @@ const projects = [
   {
     date: "11/24 – 04/27",
     name: "KlimaFIT-Projekt",
-    url: "https://dhp.lbg.ac.at/klimafit/?lang=en",
+    url: "https://dhp.lbg.ac.at/klimafit/",
     tags: ["Machbarkeitsstudie", "Laufend"],
     description:
       "**aktiv**plan spielt eine Schlüsselrolle im KlimaFIT-Projekt. Es wird genutzt, um herzgesunde körperliche Aktivität zu planen und zu fördern und so klimaangepasste Fitness, Hitzetoleranz und aktive Mobilität zu unterstützen.",
