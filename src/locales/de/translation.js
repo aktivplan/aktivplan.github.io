@@ -34,7 +34,7 @@ const de = {
       },
       {
         img: "/about-images/3-screen.jpg",
-        text: "Fortschritte im Laufe der Zeit"
+        text: "Fortschritte im Lauf der Zeit"
       },
       {
         img: "/about-images/4-screen.jpg",
