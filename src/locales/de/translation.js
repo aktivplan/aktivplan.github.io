@@ -20,7 +20,7 @@ const de = {
   },
   about: {
     slogan: "aktivplan: eine Brücke zwischen professioneller Unterstützung und Alltag schlagen.",
-    keywords: "Planen. Bewegen. Verbesseren.",
+    keywords: "Planen. Bewegen. Verbessern.",
     desc: aboutMD,
     desc2: about2MD,
     screenshots: [
