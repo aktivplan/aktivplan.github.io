@@ -42,7 +42,7 @@ const de = {
       }
     ]
   },
-  background: { desc: backgroundMD, lead: 'Projektleitung', support: 'Unterstützt durch' },
+  background: { desc: backgroundMD, lead: 'Projektleitung', support: 'Unterstützt durch', funded: "Gefördert im Rahmen von"},
   evidence: { desc: evidenceMD, projects: projectsJS, publications: "Publikation(en):" },
   benefits: { h1: "Mehrwert und wirtschaftlicher Nutzen", desc: benefitsMD },
   nextSteps: { h1: "Nächste Schritte", desc: nextStepsMD },
