@@ -4,7 +4,7 @@ const projects = [
     name: "Schließung ambulanter Herzrehabilitation und Heimtraining während COVID-19",
     tags: ["Mixed-Methods-Studie"],
     description:
-      "Der COVID-19-Lockdown unterbrach die gruppenbasierte Herzrehabilitation für 27 Teilnehmer:innen, was die Trainingskapazität, Motivation und das Vertrauen beim Heimtraining reduzierte. Die meisten blieben aktiv, viele hatten jedoch Schwierigkeiten, das vorherige Niveau zu halten, und vermissten die Struktur, Betreuung und soziale Unterstützung der Gruppensitzungen. Die Ergebnisse unterstreichen die Bedeutung angeleiteter Übungen und das Potenzial eines digitalen Tools, strukturiertes, personalisiertes Training aus der Ferne zu unterstützen.",
+      "Der COVID-19-Lockdown führte zu einer Unterbrechung der gruppenbasierten Herzrehabilitation für 27 Teilnehmer:innen. In der Folge nahmen Trainingskapazität, Motivation und Vertrauen in das eigenständige Heimtraining ab. Zwar blieben die meisten körperlich aktiv, vielen fiel es jedoch schwer, das zuvor erreichte Trainingsniveau aufrechtzuerhalten. Zudem wurden die fehlende Struktur, fachliche Betreuung und soziale Unterstützung der Gruppensitzungen deutlich vermisst. Die Ergebnisse verdeutlichen die zentrale Bedeutung angeleiteter Trainingsprogramme und weisen zugleich auf das Potenzial digitaler Lösungen hin, um ein strukturiertes und personalisiertes Training auch aus der Ferne zu ermöglichen.",
     publications: [
       {
         title: "Outpatient Cardiac Rehabilitation Closure and Home-Based Exercise Training During the First COVID-19 Lockdown in Austria: A Mixed-Methods Study",
@@ -17,7 +17,8 @@ const projects = [
     name: "Design und Entwicklung des aktivplan-Prototyps",
     tags: ["Nutzerzentrierte Entwicklung"],
     description:
-      "**aktiv**plan wurde ursprünglich als digitale Anwendung entwickelt, um die Einhaltung verschriebener körperlicher Aktivitäten während der Herzrehabilitation zu unterstützen. Die Anwendung entstand durch einen nutzerzentrierten Designprozess und ermöglicht Rehabilitationsfachkräften und Patient:innen, gemeinsam personalisierte Aktivitätspläne zu erstellen, zu überwachen und zu besprechen, sinnvolle Ziele zu setzen und Fortschritte zu verfolgen. Dieser Prototyp legte die Grundlage für weitere Forschung und Entwicklung.",    publications: [
+      "**aktiv**planwurde ursprünglich als digitale Anwendung konzipiert, um die Adhärenz zu verordneten körperlichen Aktivitäten im Rahmen der Herzrehabilitation zu fördern. Die Entwicklung erfolgte im Rahmen eines nutzerzentrierten Designprozesses. Die Anwendung ermöglicht es Rehabilitationsfachkräften und Patient:innen, gemeinsam personalisierte Aktivitätspläne zu erstellen, zu überwachen und zu reflektieren, realistische und sinnvolle Ziele zu definieren sowie den individuellen Fortschritt nachzuverfolgen. Dieser Prototyp bildete die Grundlage für weiterführende Forschung und Entwicklung.",
+    publications: [
       {
         title: "The Development of a Digital Tool for Planning Physical Exercise Training During Cardiac Rehabilitation",
         url: "https://doi.org/10.3233/SHTI220286"
@@ -29,7 +30,7 @@ const projects = [
     name: "DSGVO-Toolkit für digitale Gesundheit",
     tags: ["Toolkit-Entwicklung", "Evaluation"],
     description:
-      "Die Studie entwickelte ein DSGVO-Compliance-Toolkit für digitale Gesundheitsanwendungen, um den sicheren Umgang mit sensiblen Gesundheitsdaten zu gewährleisten. Das Toolkit wurde auf **aktiv**plan angewendet, wodurch die Integration von DSGVO-Anforderungen bereits in der frühen Designphase ermöglicht wurde, einschließlich Einwilligungsmanagement, Datenverschlüsselung, Benutzer-Authentifizierung und klarer Visualisierung der erhobenen Gesundheitsdaten.",
+      "Die Studie entwickelte ein DSGVO-Compliance-Toolkit für digitale Gesundheitsanwendungen, das den sicheren und rechtskonformen Umgang mit sensiblen Gesundheitsdaten unterstützt. Das Toolkit wurde auf **aktiv**plan angewendet und ermöglichte die systematische Integration von DSGVO-Anforderungen bereits in einer frühen Designphase. Dazu zählten unter anderem ein strukturiertes Einwilligungsmanagement, Maßnahmen zur Datenverschlüsselung, eine sichere Benutzer:innen-Authentifizierung sowie eine transparente und verständliche Visualisierung der erhobenen Gesundheitsdaten.",
     publications: [
       {
         title: "General Data Protection Regulation (GDPR) Toolkit for Digital Health",
