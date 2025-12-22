@@ -17,7 +17,7 @@ const projects = [
     name: "Design und Entwicklung des aktivplan-Prototyps",
     tags: ["Nutzerzentrierte Entwicklung"],
     description:
-      "**aktiv**planwurde ursprünglich als digitale Anwendung konzipiert, um die Adhärenz zu verordneten körperlichen Aktivitäten im Rahmen der Herzrehabilitation zu fördern. Die Entwicklung erfolgte im Rahmen eines nutzerzentrierten Designprozesses. Die Anwendung ermöglicht es Rehabilitationsfachkräften und Patient:innen, gemeinsam personalisierte Aktivitätspläne zu erstellen, zu überwachen und zu reflektieren, realistische und sinnvolle Ziele zu definieren sowie den individuellen Fortschritt nachzuverfolgen. Dieser Prototyp bildete die Grundlage für weiterführende Forschung und Entwicklung.",
+      "**aktiv**plan wurde ursprünglich als digitale Anwendung konzipiert, um die Adhärenz zu verordneten körperlichen Aktivitäten im Rahmen der Herzrehabilitation zu fördern. Die Entwicklung erfolgte im Rahmen eines nutzerzentrierten Designprozesses. Die Anwendung ermöglicht es Rehabilitationsfachkräften und Patient:innen, gemeinsam personalisierte Aktivitätspläne zu erstellen, zu überwachen und zu reflektieren, realistische und sinnvolle Ziele zu definieren sowie den individuellen Fortschritt nachzuverfolgen. Dieser Prototyp bildete die Grundlage für weiterführende Forschung und Entwicklung.",
     publications: [
       {
         title: "The Development of a Digital Tool for Planning Physical Exercise Training During Cardiac Rehabilitation",
