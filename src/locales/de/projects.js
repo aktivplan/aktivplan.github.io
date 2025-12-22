@@ -53,11 +53,11 @@ const projects = [
     ]
   },
   {
-    date: "03/21 – 06/22",
+    date: "07/21 – 07/22",
     name: "miR4Heart-Studie",
     tags: ["Längsschnittstudie"],
     description:
-      "In der Studie wurde untersucht, wie akute körperliche Belastung die Aktivität von miRNAs bei zuvor inaktiven gesunden Teilnehmer:innen beeinflusst. Dabei wurde **aktiv**plan genutzt, um die körperlichen Aktivitäten zu planen und zu dokumentieren. Die Ergebnisse zeigten, dass erhöhte körperliche Aktivität mehrere trainingsresponsible miRNAs in ein gesünderes, entzündungshemmendes Profil veränderte.",
+      "In der Studie wurde untersucht, wie akute körperliche Belastung die Menge von spezifischen miRNAs bei zuvor inaktiven gesunden Teilnehmer:innen beeinflusst. Dabei wurde **aktiv**plan genutzt, um die Erhöhung der körperlichen Aktivitäten über 4 Monate zu planen und zu dokumentieren. Die Ergebnisse zeigten, dass erhöhte körperliche Aktivität das Vorhandensein von mehreren bewegungsabhängige miRNAs in ein gesünderes, entzündungshemmendes Profil veränderte.",
     publications: [
       {
         title: "Response of miRNA expression to acute exercise changes significantly after four months of exercise training",
