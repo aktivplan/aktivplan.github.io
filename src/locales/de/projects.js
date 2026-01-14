@@ -118,6 +118,10 @@ const projects = [
       {
         title: "Feasibility of the aktivplan digital health intervention for regular physical activity following phase II rehabilitation: Protocol for a mixed-method randomized controlled pilot study (ACTIVE-CaRe Pilot)",
         url: "https://doi.org/10.2196/73704"
+      },
+      {
+        title: "Feasibility of a randomised controlled trial of the aktivplan digital intervention for regular physical activity following phase II rehabilitation: the ACTIVE-CaRe Pilot study",
+        url: "https://academic.oup.com/eurheartj/article/46/Supplement_1/ehaf784.4536/8309220"
       }]
   },
   {
