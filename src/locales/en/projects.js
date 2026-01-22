@@ -1,6 +1,6 @@
 const projects = [
   {
-    date: "01/20 – 05/21",
+    date: "05/20 – 05/21",
     name: "Outpatient Cardiac Rehabilitation Closure and Home-Based Exercise Training in COVID-19",
     tags: ["Mixed-Methods Study"],
     description:
@@ -92,7 +92,7 @@ const projects = [
     name: "Intervention Mapping for a Digital Health App",
     tags: ["Intervention Mapping"],
     description:
-      "Using Intervention Mapping retrospectively, the study linked **aktiv**plan’s features—planning calendar, exercise videos, reminders, and health care professional feedback—to behavior change methods, personal determinants, and performance objectives, creating a logic model and acyclic behavior change diagram illustrating the intervention’s hypothesized mechanisms of action.",
+      "Using Intervention Mapping retrospectively, the study linked **aktiv**plan’s features—planning calendar, exercise videos, reminders, and health care professional feedback—to behavior change methods, personal determinants, and performance objectives, creating a logic model illustrating the intervention’s hypothesized mechanisms of action.",
     publications: [{
       title: "Making it transparent: A worked example of articulating programme theory for a digital health application using Intervention Mapping",
       url: "https://doi.org/10.1177/20552076241260974"
