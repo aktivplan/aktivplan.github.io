@@ -1,10 +1,10 @@
 const projects = [
   {
-    date: "01/20 – 05/21",
-    name: "Schließung ambulanter Herzrehabilitation und Heimtraining während COVID-19",
+    date: "05/20 – 05/21",
+    name: "Schließung ambulanter kardiologischer Rehabilitation und Heimtraining während COVID-19",
     tags: ["Mixed-Methods-Studie"],
     description:
-      "Der COVID-19-Lockdown führte zu einer Unterbrechung der gruppenbasierten Herzrehabilitation für 27 Teilnehmer:innen. In der Folge nahmen Trainingskapazität, Motivation und Vertrauen in das eigenständige Heimtraining ab. Zwar blieben die meisten körperlich aktiv, vielen fiel es jedoch schwer, das zuvor erreichte Trainingsniveau aufrechtzuerhalten. Zudem wurden die fehlende Struktur, fachliche Betreuung und soziale Unterstützung der Gruppensitzungen deutlich vermisst. Die Ergebnisse verdeutlichen die zentrale Bedeutung angeleiteter Trainingsprogramme und weisen zugleich auf das Potenzial digitaler Lösungen hin, um ein strukturiertes und personalisiertes Training auch aus der Ferne zu ermöglichen.",
+      "Der COVID-19-Lockdown führte zu einer Unterbrechung der gruppenbasierten kardiologischen Rehabilitation für 27 Teilnehmer:innen. In der Folge nahmen Trainingskapazität, Motivation und Vertrauen in das eigenständige Heimtraining ab. Zwar blieben die meisten körperlich aktiv, vielen fiel es jedoch schwer, das zuvor erreichte Trainingsniveau aufrechtzuerhalten. Zudem wurden die fehlende Struktur, fachliche Betreuung und soziale Unterstützung der Gruppensitzungen deutlich vermisst. Die Ergebnisse verdeutlichen die zentrale Bedeutung angeleiteter Trainingsprogramme und weisen zugleich auf das Potenzial digitaler Lösungen hin, um ein strukturiertes und personalisiertes Training auch aus der Ferne zu ermöglichen.",
     publications: [
       {
         title: "Outpatient Cardiac Rehabilitation Closure and Home-Based Exercise Training During the First COVID-19 Lockdown in Austria: A Mixed-Methods Study",
@@ -17,7 +17,7 @@ const projects = [
     name: "Design und Entwicklung des aktivplan-Prototyps",
     tags: ["Nutzerzentrierte Entwicklung"],
     description:
-      "**aktiv**plan wurde ursprünglich als digitale Anwendung konzipiert, um die Adhärenz zu verordneten körperlichen Aktivitäten im Rahmen der Herzrehabilitation zu fördern. Die Entwicklung erfolgte im Rahmen eines nutzerzentrierten Designprozesses. Die Anwendung ermöglicht es Rehabilitationsfachkräften und Patient:innen, gemeinsam personalisierte Aktivitätspläne zu erstellen, zu überwachen und zu reflektieren, realistische und sinnvolle Ziele zu definieren sowie den individuellen Fortschritt nachzuverfolgen. Dieser Prototyp bildete die Grundlage für weiterführende Forschung und Entwicklung.",
+      "**aktiv**plan wurde ursprünglich als digitale Anwendung konzipiert, um die Adhärenz zu verordneten körperlichen Aktivitäten im Rahmen der kardiologischen Rehabilitation zu fördern. Die Entwicklung erfolgte im Rahmen eines nutzerzentrierten Designprozesses. Die Anwendung ermöglicht es Rehabilitationsfachkräften und Patient:innen, gemeinsam personalisierte Aktivitätspläne zu erstellen, zu überwachen und zu reflektieren, realistische und sinnvolle Ziele zu definieren sowie den individuellen Fortschritt nachzuverfolgen. Dieser Prototyp bildete die Grundlage für weiterführende Forschung und Entwicklung.",
     publications: [
       {
         title: "The Development of a Digital Tool for Planning Physical Exercise Training During Cardiac Rehabilitation",
@@ -44,7 +44,7 @@ const projects = [
     url: "https://eplus.uni-salzburg.at/obvusbhs/download/pdf/7315343?originalFilename=true",
     tags: ["Masterarbeit", "Feldstudie"],
     description:
-      "Die Masterarbeit untersuchte, wie **aktiv**plan die gemeinsame Entscheidungsfindung in der Herzrehabilitation unterstützt. **aktiv**plan bot Struktur und Transparenz bei der Planung und Dokumentation von Aktivitäten, motivierte die Patient:innen und verband professionelle Anleitung mit dem täglichen Training. Die Studie zeigte jedoch, dass mehr integrierte Anleitung die kollaborative Zielsetzung und personalisierte Trainingsplanung weiter stärken könnte.",
+      "Die Masterarbeit untersuchte, wie **aktiv**plan die partizipative Entscheidungsfindung in der kardiologischen Rehabilitation unterstützt. **aktiv**plan bot Struktur und Transparenz bei der Planung und Dokumentation von Aktivitäten, motivierte die Patient:innen und verband professionelle Anleitung mit dem täglichen Training. Die Studie zeigte jedoch, dass mehr integrierte Anleitung die kollaborative Zielsetzung und personalisierte Trainingsplanung weiter stärken könnte.",
     publications: [
       {
         title: "Investigating shared decision-making during the use of a digital health tool for physical activity planning in cardiac rehabilitation",
@@ -92,7 +92,7 @@ const projects = [
     name: "Intervention Mapping für eine digitale Gesundheits-App",
     tags: ["Intervention Mapping"],
     description:
-      "Mittels Intervention Mapping wurde retrospektiv untersucht, wie die Funktionen von **aktiv**plan – Planungskalender, Trainingsvideos, Erinnerungen und Feedback von Gesundheitsfachkräften – mit Methoden zur Verhaltensänderung, persönlichen Determinanten und Leistungszielen verknüpft sind. Dabei entstand ein Logikmodell und ein azyklisches Diagramm zur Verhaltensänderung, das die hypothetischen Wirkmechanismen der Intervention darstellt.",
+      "Mittels Intervention Mapping wurde retrospektiv untersucht, wie die Funktionen von **aktiv**plan – Planungskalender, Trainingsvideos, Erinnerungen und Feedback von Gesundheitsfachkräften – mit Methoden zur Verhaltensänderung, persönlichen Determinanten und Leistungszielen verknüpft sind. Dabei entstand ein Logikmodell zur Verhaltensänderung, das die hypothetischen Wirkmechanismen der Intervention darstellt.",
     publications: [{
       title: "Making it transparent: A worked example of articulating programme theory for a digital health application using Intervention Mapping",
       url: "https://doi.org/10.1177/20552076241260974"
@@ -113,7 +113,7 @@ const projects = [
     url: "https://dhp.lbg.ac.at/projects-and-studies/",
     tags: ["Klinische Pilotstudie"],
     description:
-      "Die Pilotstudie wurde durchgeführt, um eine größere klinische Studie zur Medizinprodukt-Zertifizierung vorzubereiten. Erste Analysen zeigen, dass die 11 **aktiv**plan-Nutzer:innen zehn Wochen nach der Entlassung aus der Herzrehabilitation innerhalb eines einwöchigen Messzeitraums im Durchschnitt 18% mehr herzgesunde Bewegung erreichten als 16 Patient:innen, die **aktiv**plan nicht nutzten.",
+      "Die Pilotstudie wurde durchgeführt, um eine größere klinische Studie zur Medizinprodukt-Zertifizierung vorzubereiten. Erste Analysen zeigen, dass die 11 **aktiv**plan-Nutzer:innen zehn Wochen nach der Entlassung aus der kardiologischen Rehabilitation innerhalb eines einwöchigen Messzeitraums im Durchschnitt 18% mehr herzgesunde Bewegung erreichten als 16 Patient:innen, die **aktiv**plan nicht nutzten.",
     publications: [
       {
         title: "Feasibility of the aktivplan digital health intervention for regular physical activity following phase II rehabilitation: Protocol for a mixed-method randomized controlled pilot study (ACTIVE-CaRe Pilot)",
@@ -126,10 +126,10 @@ const projects = [
   },
   {
     date: "09/23 – 05/24",
-    name: "Digitale Unterstützung für Shared Decision-Making bei Bewegungsempfehlungen",
+    name: "Digitale Unterstützung zur Förderung partizipativer Entscheidungsfindung bei Bewegungsempfehlungen",
     tags: ["Vergleichsstudie"],
     description:
-      "Die Studie verglich bei 20 Herzrehabilitations-Patient:innen die Nutzung eines papierbasierten Plans mit **aktiv**plan. **aktiv**plan verbesserte die gemeinsame Entscheidungsfindung und unterstützte personalisierte Trainingsplanung. 16 von 20 Patient:innen bevorzugten **aktiv**plan gegenüber Papierplänen. Die Ergebnisse zeigen das Potenzial von **aktiv**plan zur Verbesserung der Trainingsadhärenz und Motivation.",
+      "Die Studie verglich bei 20 kardiologischen Rehabilitationspatient:innen die Nutzung eines papierbasierten Plans mit **aktiv**plan. **aktiv**plan verbesserte die gemeinsame Entscheidungsfindung und unterstützte personalisierte Trainingsplanung. 16 von 20 Patient:innen bevorzugten **aktiv**plan gegenüber Papierplänen. Die Ergebnisse zeigen das Potenzial von **aktiv**plan zur Verbesserung der Trainingsadhärenz und Motivation.",
     publications: [{
       title: "Digitally supported shared decision-making for exercise prescription in the secondary prevention of cardiovascular disease",
       url: "https://doi.org/10.1093/eurjpc/zwaf236.362"
@@ -161,7 +161,7 @@ const projects = [
     url: "https://prehab2rehab.at/",
     tags: ["Machbarkeitsstudie", "Laufend"],
     description:
-      "**aktiv**plan war ein zentraler Enabler für das von der FFG geförderte Leuchtturmprojekt. Ziel des Projekts ist es, eine integrierte, digital unterstützte und individuell ausgerichtete Versorgung zu gestalten, die sowohl Patient:innen als auch das Gesundheitssystem nachhaltig stärkt.",
+      "**aktiv**plan gehörte zu den zentralen Technologien, die das von der FFG geförderte Leuchtturmprojekt ermöglichten. Ziel des Projekts ist es, eine integrierte, digital unterstützte und individuell ausgerichtete Versorgung zu gestalten, die sowohl Patient:innen als auch das Gesundheitssystem nachhaltig stärkt.",
     publications: []
   }
 ];
